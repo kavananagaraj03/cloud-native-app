@@ -1,0 +1,15 @@
+{
+  "name": "cloud-native-app",
+  "version": "1.0.0",
+  "description": "This project focuses on building and deploying cloud-native applications using IBM Cloud and Kubernetes.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
